@@ -1,5 +1,5 @@
 import java.util.*;
-
+//Remove Duplicate array from sorted array
 public class Main {
     public static void main(String[] args) {
      int [] arr ={1,1,2,3,4,4,5};
